@@ -9,7 +9,7 @@
 #include <Arduino.h>
 #include <Wire.h>
 #include <BH1750.h>
-#include <ESP8266WiFi.h>
+//#include <ESP8266WiFi.h>
 #include <AntaresESPMQTT.h>
 
 // ======== GANTI DENGAN KREDENSIAL KAMU ========
